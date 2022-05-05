@@ -25,7 +25,7 @@ const SearchDiv = styled("div")(({ theme }) => ({
   borderRadius: theme.shape.borderRadius,
   width: "40%",
 }));
-const Icons = styled(Box)(({ theme }) => ({
+const Icons = styled(Box)(({ theme }) => ({ 
   display: "none",
   alignItems: "center",
   gap: "20px",
