@@ -1,5 +1,5 @@
 {
-  "homepage": "http://AyubBodirkhonov.github.io/React-SocialMedia-Project",
+  "homepage": "https://github.com/AyubBodirkhonov/materialui-socialmedia-project.git",
   "name": "material-ui-project.",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
